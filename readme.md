@@ -36,7 +36,7 @@ _Teste de **ênfase** combinado 02_
 ![logo do python](/img/5848152fcef1014c0b5e4967.png)
 
 #### Imagem externa:
-![Link para logo do python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw0qDTMRhuR7eHmQchndDgxt&ust=1697565312659000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiq3N2R-4EDFQAAAAAdAAAAABAY)
+![Link para logo do PHP](https://www.php.net/images/logos/new-php-logo.png)
 
 
 ### Inserindo links
