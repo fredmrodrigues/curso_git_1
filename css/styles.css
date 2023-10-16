@@ -2,6 +2,10 @@ h1 {
     color: red;
 }
 
+h2 {
+    size: 250px;
+}
+
 p.Home {
     size: 200px;
 }
